@@ -1,3 +1,4 @@
 #!/bin/bash
 echo Hello, World
-sort < 0-hello_world.txt
+0-hello_world | sort
+
