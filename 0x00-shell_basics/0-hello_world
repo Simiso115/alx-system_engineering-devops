@@ -1,4 +1,3 @@
 #!/bin/bash
-echo -e Hello, World
-e="Hello, World" | echo "$e" | sort 
+echo Hello, World | sort  
 
